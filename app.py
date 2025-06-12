@@ -596,8 +596,8 @@ def parse_llm_response(response):
         }
 
 # Define API routes
-@app.post("/api/")
-async def query_knowledge_base(request: QueryRequest):
+@app.post("/api")
+async def root(request: QueryRequest):
     try:
         # Log the incoming request
         logger.info(f"Received query request: question='{request.question[:50]}...', image_provided={request.image is not None}")
@@ -726,8 +726,4 @@ async def health_check():
 
 if __name__ == "__main__":
     uvicorn.run("app:app", host="127.0.0.1", port=8000, reload=True)
-
-@app.api_route("/", methods=["GET", "POST"])
-async def root(request: Request):
-    return {"message": f"TDS Virtual TA is running. Method: {request.method}"}
 
