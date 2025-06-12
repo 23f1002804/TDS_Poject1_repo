@@ -685,7 +685,7 @@ async def root(request: QueryRequest):
         )
 
 # Define API routes
-@app.post("/api")
+@app.post("/api/")
 async def query_knowledge_base(request: QueryRequest):
     try:
         # Log the incoming request
@@ -816,10 +816,8 @@ async def health_check():
 if __name__ == "__main__":
     uvicorn.run("app:app", host="127.0.0.1", port=8000, reload=True)
 
-@app.api_route("/", methods=["GET", "POST"])
-async def root(request: Request):
-    return {
-        "message": "TDS Virtual TA is live!",
-        "method": request.method,
-        "status": "OK"
-    }
+@app.get("/")
+def root():
+    return{
+  "message": "TDS Virtual TA is live!"
+}
