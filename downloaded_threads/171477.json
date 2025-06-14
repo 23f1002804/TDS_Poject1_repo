@@ -1,0 +1,273 @@
+{
+  "id": 171477,
+  "title": "Project 1 Evaluation second mail is not correct and reports files missing while they are present",
+  "slug": "project-1-evaluation-second-mail-is-not-correct-and-reports-files-missing-while-they-are-present",
+  "post_stream": {
+    "posts": [
+      {
+        "topic_id": 171477,
+        "topic_title": "Project 1 Evaluation second mail is not correct and reports files missing while they are present",
+        "category_id": 34,
+        "tags": [
+          "term1-2025",
+          "tds-project-one"
+        ],
+        "post_id": 614050,
+        "post_number": 1,
+        "author": "22f3001832",
+        "created_at": "2025-04-01T03:38:04.390Z",
+        "updated_at": "2025-04-07T15:14:43.033Z",
+        "reply_to_post_number": null,
+        "is_reply": false,
+        "reply_count": 0,
+        "like_count": 0,
+        "is_accepted_answer": false,
+        "mentioned_users": [],
+        "url": "https://discourse.onlinedegree.iitm.ac.in/t/project-1-evaluation-second-mail-is-not-correct-and-reports-files-missing-while-they-are-present/171477/1",
+        "content": "Mail I received Yesterday:\nScreenshot from 2025-04-01 09-01-071174×451 54.2 KB\nPrevious Correct Evaluation Mail:\nScreenshot from 2025-04-01 09-02-351687×650 144 KB\nGood Morning Sir,\nThis is my github repo: GitHub - kohliaryan/TDS_Project_1 ()You can verify that it is public, MIT License is present and Dockerfile is also present.)\nI also got a mail 2 days ago in which everything is mentioned correctly but the mail I got yesterday worry me.  Sir, I have worked really hard for project 1. Please look into this matter.\n@carlton"
+      },
+      {
+        "topic_id": 171477,
+        "topic_title": "Project 1 Evaluation second mail is not correct and reports files missing while they are present",
+        "category_id": 34,
+        "tags": [
+          "term1-2025",
+          "tds-project-one"
+        ],
+        "post_id": 614959,
+        "post_number": 2,
+        "author": "22f3001832",
+        "created_at": "2025-04-03T12:03:07.447Z",
+        "updated_at": "2025-04-03T12:03:07.447Z",
+        "reply_to_post_number": null,
+        "is_reply": false,
+        "reply_count": 1,
+        "like_count": 0,
+        "is_accepted_answer": false,
+        "mentioned_users": [],
+        "url": "https://discourse.onlinedegree.iitm.ac.in/t/project-1-evaluation-second-mail-is-not-correct-and-reports-files-missing-while-they-are-present/171477/2",
+        "content": "@Jivraj Sir, Please look into in this matter, no reply from your side till now and 2 days have been passed."
+      },
+      {
+        "topic_id": 171477,
+        "topic_title": "Project 1 Evaluation second mail is not correct and reports files missing while they are present",
+        "category_id": 34,
+        "tags": [
+          "term1-2025",
+          "tds-project-one"
+        ],
+        "post_id": 615141,
+        "post_number": 3,
+        "author": "carlton",
+        "created_at": "2025-04-04T06:10:31.239Z",
+        "updated_at": "2025-04-04T06:10:31.239Z",
+        "reply_to_post_number": 2,
+        "is_reply": true,
+        "reply_count": 0,
+        "like_count": 0,
+        "is_accepted_answer": false,
+        "mentioned_users": [],
+        "url": "https://discourse.onlinedegree.iitm.ac.in/t/project-1-evaluation-second-mail-is-not-correct-and-reports-files-missing-while-they-are-present/171477/3",
+        "content": "Apologies for that,\nThe second email was an automated script that used a stricter criteria. You have passed evaluation and also have a score. So dont worry. We will push scores over this weekend. We are currently doing normalisation.\nKind regards"
+      },
+      {
+        "topic_id": 171477,
+        "topic_title": "Project 1 Evaluation second mail is not correct and reports files missing while they are present",
+        "category_id": 34,
+        "tags": [
+          "term1-2025",
+          "tds-project-one"
+        ],
+        "post_id": 615308,
+        "post_number": 4,
+        "author": "23f2000345",
+        "created_at": "2025-04-04T14:22:43.915Z",
+        "updated_at": "2025-04-04T14:22:43.915Z",
+        "reply_to_post_number": null,
+        "is_reply": false,
+        "reply_count": 1,
+        "like_count": 0,
+        "is_accepted_answer": false,
+        "mentioned_users": [],
+        "url": "https://discourse.onlinedegree.iitm.ac.in/t/project-1-evaluation-second-mail-is-not-correct-and-reports-files-missing-while-they-are-present/171477/4",
+        "content": "Hi @carlton,\nI’m experiencing the same issue mentioned in this thread regarding Project 1 evaluation emails:\n\nThe first email I received confirmed all requirements were met (public repo, MIT License, Dockerfile, etc.)\nThe second email incorrectly flagged missing files despite their presence in my repository\n\nHere are screenshots of both emails showing the discrepancy:\nFirst Evaluation Email1511×724 76.2 KB\nSecond Evaluation Email1247×681 37.5 KB\nMy GitHub repo remains publicly accessible with all required components:\nGitHub repo\nCould you please confirm this was an automated error and that my submission will be evaluated based on the actual repository contents? Your clarification would be greatly appreciated.\nThank you for your time and assistance!"
+      },
+      {
+        "topic_id": 171477,
+        "topic_title": "Project 1 Evaluation second mail is not correct and reports files missing while they are present",
+        "category_id": 34,
+        "tags": [
+          "term1-2025",
+          "tds-project-one"
+        ],
+        "post_id": 615333,
+        "post_number": 5,
+        "author": "carlton",
+        "created_at": "2025-04-04T16:03:11.417Z",
+        "updated_at": "2025-04-04T16:03:11.417Z",
+        "reply_to_post_number": 4,
+        "is_reply": true,
+        "reply_count": 1,
+        "like_count": 0,
+        "is_accepted_answer": false,
+        "mentioned_users": [],
+        "url": "https://discourse.onlinedegree.iitm.ac.in/t/project-1-evaluation-second-mail-is-not-correct-and-reports-files-missing-while-they-are-present/171477/5",
+        "content": "Hi,\nPrerequisite checks have passed. But your docker image was missing a dependency that you forgot to copy into the image. so it failed to evaluate because it failed to run."
+      },
+      {
+        "topic_id": 171477,
+        "topic_title": "Project 1 Evaluation second mail is not correct and reports files missing while they are present",
+        "category_id": 34,
+        "tags": [
+          "term1-2025",
+          "tds-project-one"
+        ],
+        "post_id": 615350,
+        "post_number": 6,
+        "author": "22f3001832",
+        "created_at": "2025-04-04T17:00:40.743Z",
+        "updated_at": "2025-04-04T17:00:40.743Z",
+        "reply_to_post_number": 5,
+        "is_reply": true,
+        "reply_count": 0,
+        "like_count": 0,
+        "is_accepted_answer": false,
+        "mentioned_users": [],
+        "url": "https://discourse.onlinedegree.iitm.ac.in/t/project-1-evaluation-second-mail-is-not-correct-and-reports-files-missing-while-they-are-present/171477/6",
+        "content": "You talking about me or @23f2000345 ?"
+      },
+      {
+        "topic_id": 171477,
+        "topic_title": "Project 1 Evaluation second mail is not correct and reports files missing while they are present",
+        "category_id": 34,
+        "tags": [
+          "term1-2025",
+          "tds-project-one"
+        ],
+        "post_id": 618452,
+        "post_number": 8,
+        "author": "Sudhishnarayan",
+        "created_at": "2025-04-12T05:11:08.122Z",
+        "updated_at": "2025-04-12T05:12:56.241Z",
+        "reply_to_post_number": null,
+        "is_reply": false,
+        "reply_count": 1,
+        "like_count": 0,
+        "is_accepted_answer": false,
+        "mentioned_users": [],
+        "url": "https://discourse.onlinedegree.iitm.ac.in/t/project-1-evaluation-second-mail-is-not-correct-and-reports-files-missing-while-they-are-present/171477/8",
+        "content": "Good Morning Sir, Actually even I got the mail regarding Project-1 Evaluation, where I got the message like the prerequisites were not met. But, sir actually I have uploaded my MIT License file, requirements.txt file, my Project.py file and the Dockerfile. Sir, and when I sent a request to my API from my device, it worked sir. I have got 0 in my project 1 sir, but I have met the pre-requisites Can you please check this once sir?\nMy GitHub repository for Project-1: GitHub - sudhishssn134/project_1_tds\nThanking You\nJust attaching the mail I recieved.\nScreenshot 2025-04-12 1042111429×750 71 KB"
+      },
+      {
+        "topic_id": 171477,
+        "topic_title": "Project 1 Evaluation second mail is not correct and reports files missing while they are present",
+        "category_id": 34,
+        "tags": [
+          "term1-2025",
+          "tds-project-one"
+        ],
+        "post_id": 618459,
+        "post_number": 9,
+        "author": "carlton",
+        "created_at": "2025-04-12T05:19:47.384Z",
+        "updated_at": "2025-04-12T05:20:05.010Z",
+        "reply_to_post_number": 8,
+        "is_reply": true,
+        "reply_count": 1,
+        "like_count": 0,
+        "is_accepted_answer": false,
+        "mentioned_users": [],
+        "url": "https://discourse.onlinedegree.iitm.ac.in/t/project-1-evaluation-second-mail-is-not-correct-and-reports-files-missing-while-they-are-present/171477/9",
+        "content": "Your Dockerfile was misconfigured. When we try to build the docker image from your github repo, we get this error:\ntried copying parent folder(COPY failed: forbidden path outside the build context: .. ())\nYou have to replicate the test environment. If it works when you follow this test setup then you should get in touch with us.\n\n\n\nTds-official-Project1-discrepencies Tools in Data Science\n\n\n    To replicate the test environment: \nFetch the github repo’s latest commit before 18th feb use below code for that. You need to have github cli installed on your system and need authentication for certain github api enpoint access. Once authenticated and providing the appropriate repo details you can  run this code using uv. \n# /// script\n# dependencies = [\n#   \"requests\",\n# ]\n# ///\n\nimport requests\nimport datetime as dt\nimport zoneinfo\nimport argparse\nimport os\nimport zipfile\n\nparser = argparse.…\n  \n\n"
+      },
+      {
+        "topic_id": 171477,
+        "topic_title": "Project 1 Evaluation second mail is not correct and reports files missing while they are present",
+        "category_id": 34,
+        "tags": [
+          "term1-2025",
+          "tds-project-one"
+        ],
+        "post_id": 618461,
+        "post_number": 10,
+        "author": "Sudhishnarayan",
+        "created_at": "2025-04-12T05:22:31.404Z",
+        "updated_at": "2025-04-12T05:22:31.404Z",
+        "reply_to_post_number": 9,
+        "is_reply": true,
+        "reply_count": 1,
+        "like_count": 0,
+        "is_accepted_answer": false,
+        "mentioned_users": [],
+        "url": "https://discourse.onlinedegree.iitm.ac.in/t/project-1-evaluation-second-mail-is-not-correct-and-reports-files-missing-while-they-are-present/171477/10",
+        "content": "Oh OK Sir. I will try it out. Thank You so much sir"
+      },
+      {
+        "topic_id": 171477,
+        "topic_title": "Project 1 Evaluation second mail is not correct and reports files missing while they are present",
+        "category_id": 34,
+        "tags": [
+          "term1-2025",
+          "tds-project-one"
+        ],
+        "post_id": 618500,
+        "post_number": 11,
+        "author": "Sudhishnarayan",
+        "created_at": "2025-04-12T06:28:33.110Z",
+        "updated_at": "2025-04-12T06:30:15.384Z",
+        "reply_to_post_number": 10,
+        "is_reply": true,
+        "reply_count": 1,
+        "like_count": 0,
+        "is_accepted_answer": false,
+        "mentioned_users": [],
+        "url": "https://discourse.onlinedegree.iitm.ac.in/t/project-1-evaluation-second-mail-is-not-correct-and-reports-files-missing-while-they-are-present/171477/11",
+        "content": "Sir, I have extracted the files from the GitHub Repository, built my DockerFile withe the DockerImage I have posted. The build is successful and the dockerimage is also running sir. I have attached the screen shot below\nScreenshot 2025-04-12 1153421466×702 50.4 KB\nSir, But I couldn’t run the last command you gave,\nuv run evaluate.py --email <any email> --token_counter 1 --external_port 8000\n\nAs I dont have evaluate.py\nBut, the DockerImage is built and is running without error sir.\nPlease guide me after this sir\nThank You So much sir"
+      },
+      {
+        "topic_id": 171477,
+        "topic_title": "Project 1 Evaluation second mail is not correct and reports files missing while they are present",
+        "category_id": 34,
+        "tags": [
+          "term1-2025",
+          "tds-project-one"
+        ],
+        "post_id": 623514,
+        "post_number": 12,
+        "author": "Sudhishnarayan",
+        "created_at": "2025-04-29T14:34:47.914Z",
+        "updated_at": "2025-04-29T14:34:47.914Z",
+        "reply_to_post_number": 11,
+        "is_reply": true,
+        "reply_count": 1,
+        "like_count": 0,
+        "is_accepted_answer": false,
+        "mentioned_users": [],
+        "url": "https://discourse.onlinedegree.iitm.ac.in/t/project-1-evaluation-second-mail-is-not-correct-and-reports-files-missing-while-they-are-present/171477/12",
+        "content": "Sir, I have extracted the files from the GitHub Repository, built my DockerFile withe the DockerImage I have posted. The build is successful and the dockerimage is also running sir. I have attached the screen shot below\nScreenshot 2025-04-12 1153421466×702 50.4 KB\nSir, But I couldn’t run the last command you gave,\nuv run evaluate.py --email <any email> --token_counter 1 --external_port 8000\n\nAs I dont have evaluate.py\nBut, the DockerImage is built and is running without error sir.\nPlease guide me after this sir\nThank You So much sir"
+      },
+      {
+        "topic_id": 171477,
+        "topic_title": "Project 1 Evaluation second mail is not correct and reports files missing while they are present",
+        "category_id": 34,
+        "tags": [
+          "term1-2025",
+          "tds-project-one"
+        ],
+        "post_id": 623522,
+        "post_number": 13,
+        "author": "Jivraj",
+        "created_at": "2025-04-29T15:19:06.622Z",
+        "updated_at": "2025-04-29T15:19:06.622Z",
+        "reply_to_post_number": 12,
+        "is_reply": true,
+        "reply_count": 0,
+        "like_count": 0,
+        "is_accepted_answer": false,
+        "mentioned_users": [],
+        "url": "https://discourse.onlinedegree.iitm.ac.in/t/project-1-evaluation-second-mail-is-not-correct-and-reports-files-missing-while-they-are-present/171477/13",
+        "content": "\n\n\n\nURGENT ATTN REQ: technical discrepancy and inconsistency in the evaluation scripts of graded assignment and project 2 Tools in Data Science\n\n\n    Project 1 : You tried to copy parent folder(Ref:line number 8 in your Dockerfile) but there is no parent folder with respect to github repo’s root folder, so it fails evaluation. \nProject 2 : Response we received through google form was http://127.0.0.1:8000/api which is local host url not a vercel endpoint.\n  \n\n"
+      }
+    ]
+  }
+}

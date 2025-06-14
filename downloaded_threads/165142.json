@@ -1,0 +1,51 @@
+{
+  "id": 165142,
+  "title": "GA2 deadline",
+  "slug": "ga2-deadline",
+  "post_stream": {
+    "posts": [
+      {
+        "topic_id": 165142,
+        "topic_title": "GA2 deadline",
+        "category_id": 34,
+        "tags": [
+          "graded-assignment"
+        ],
+        "post_id": 584748,
+        "post_number": 1,
+        "author": "24f2006531",
+        "created_at": "2025-01-25T07:07:19.955Z",
+        "updated_at": "2025-01-25T07:07:19.955Z",
+        "reply_to_post_number": null,
+        "is_reply": false,
+        "reply_count": 0,
+        "like_count": 0,
+        "is_accepted_answer": false,
+        "mentioned_users": [],
+        "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga2-deadline/165142/1",
+        "content": "I wanted to seek clarification regarding the deadline for GA2. The latest email received today mentions the deadline as 26th January, whereas an earlier email stated 2nd February, which is also reflected on the dashboard.\nCould you please confirm the correct deadline to avoid any confusion?\nimage1056×289 15.4 KB"
+      },
+      {
+        "topic_id": 165142,
+        "topic_title": "GA2 deadline",
+        "category_id": 34,
+        "tags": [
+          "graded-assignment"
+        ],
+        "post_id": 584796,
+        "post_number": 2,
+        "author": "Saransh_Saini",
+        "created_at": "2025-01-25T09:04:53.780Z",
+        "updated_at": "2025-01-25T09:05:33.336Z",
+        "reply_to_post_number": null,
+        "is_reply": false,
+        "reply_count": 0,
+        "like_count": 0,
+        "is_accepted_answer": false,
+        "mentioned_users": [],
+        "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga2-deadline/165142/2",
+        "content": "Deadline for GA 2 has been shifted to 2nd Feb.\nRegards,\nTDS TA"
+      }
+    ]
+  }
+}
